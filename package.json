@@ -2,11 +2,6 @@
   "name": "music-albums",
   "version": "0.1.0",
   "private": true,
-  "proxy": {
-    "/graphql": {
-      "target": "http://localhost:5000"
-    }
-  },
   "dependencies": {
     "apollo-boost": "^0.1.15",
     "bulma": "^0.7.1",
